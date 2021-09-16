@@ -1,0 +1,11 @@
+14.0.0.1 ==>1.fixed issue of traceback when product search on barcode and barcode is not given in file
+2.fixed traceback of custom field.
+14.0.0.2 ==>fixed issue of traceback when import the csv for update product variants.
+
+=> 14.0.0.3 : Add French, Spanish , Arabic and Dutch translation in module also improved an index.
+
+Version 14.0.0.4 : (03-09-21)
+		- Solved product import with variants.
+
+Version 14.0.0.5 : (08-09-21)
+	- Create only mentioned variants and update extra price with on hand quantity.
